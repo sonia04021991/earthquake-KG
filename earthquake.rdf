@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dbp="https://dbpedia.org/property/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:time="http://www.w3.org/2006/time#"
+	xmlns:wikidata="https://www.wikidata.org/wiki/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/0">
+	<time:year>1905</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Kangra</hasLocation>
+	<dbp:magnitude>8</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>20000</dbpedia-owl:numberOfDeaths>
+	<dbpedia-owl:damage>25000</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/1">
+	<time:year>1950</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Assam </hasLocation>
+	<dbp:magnitude>9</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>1500</dbpedia-owl:numberOfDeaths>
+	<dbpedia-owl:damage>20000</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/2">
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Gujarat</hasLocation>
+	<dbp:magnitude>6</dbp:magnitude>
+	<time:year>1956</time:year>
+	<dbpedia-owl:numberOfDeaths>113</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">219</numberOfInjued>
+	<dbpedia-owl:casualties>219</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>134249.9</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/3">
+	<dbp:magnitude>7</dbp:magnitude>
+	<time:year>1967</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Maharashtra</hasLocation>
+	<dbpedia-owl:numberOfDeaths>177</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">2272</numberOfInjued>
+	<dbpedia-owl:casualties>52272</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>400</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/4">
+	<time:year>1970</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Gujarat</hasLocation>
+	<dbp:magnitude>5</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>26</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">200</numberOfInjued>
+	<dbpedia-owl:casualties>200</dbpedia-owl:casualties>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/5">
+	<time:year>1975</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Himachal Pradesh</hasLocation>
+	<dbp:magnitude>7</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>47</dbpedia-owl:numberOfDeaths>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/6">
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Jammu &amp; Kashmir</hasLocation>
+	<dbp:magnitude>6</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>13</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">40</numberOfInjued>
+	<time:year>1980</time:year>
+	<dbpedia-owl:casualties>40</dbpedia-owl:casualties>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/7">
+	<time:year>1984</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Assam</hasLocation>
+	<dbp:magnitude>6</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>20</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">100</numberOfInjued>
+	<dbpedia-owl:casualties>10900</dbpedia-owl:casualties>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/8">
+	<time:year>1986</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Himachal Pradesh</hasLocation>
+	<dbp:magnitude>5</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>6</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">30</numberOfInjued>
+	<dbpedia-owl:casualties>30</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>5000</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/9">
+	<time:year>1988</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Bihar State</hasLocation>
+	<dbp:magnitude>7</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>382</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">3766</numberOfInjued>
+	<dbpedia-owl:casualties>20003766</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>71500</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/10">
+	<time:year>1991</time:year>
+	<dbpedia-owl:numberOfDeaths>1500</dbpedia-owl:numberOfDeaths>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Uttar Pradesh</hasLocation>
+	<dbp:magnitude>6</dbp:magnitude>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">1383</numberOfInjued>
+	<dbpedia-owl:casualties>54383</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>60000</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/11">
+	<time:year>1993</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Maharastra</hasLocation>
+	<dbp:magnitude>6</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>9748</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">30000</numberOfInjued>
+	<dbpedia-owl:casualties>30000</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>280000</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/12">
+	<time:year>1993</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Latur area</hasLocation>
+	<dbp:magnitude>5</dbp:magnitude>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">25</numberOfInjued>
+	<dbpedia-owl:casualties>525</dbpedia-owl:casualties>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/13">
+	<time:year>1997</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Madhya Pradesh</hasLocation>
+	<dbp:magnitude>6</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>43</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">1500</numberOfInjued>
+	<dbpedia-owl:casualties>156500</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>37000</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/14">
+	<time:year>1999</time:year>
+	<dbp:magnitude>7</dbp:magnitude>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Uttar Pradesh</hasLocation>
+	<dbpedia-owl:numberOfDeaths>100</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">394</numberOfInjued>
+	<dbpedia-owl:casualties>477894</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>2000</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/15">
+	<time:year>2001</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Gurajat province</hasLocation>
+	<dbp:magnitude>8</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>20005</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">166812</numberOfInjued>
+	<dbpedia-owl:casualties>6321812</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>2623000</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/16">
+	<time:year>2002</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Andaman Islands district (Andaman and Nicobar province)</hasLocation>
+	<dbp:magnitude>7</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>2</dbpedia-owl:numberOfDeaths>
+	<dbpedia-owl:casualties>200</dbpedia-owl:casualties>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/17">
+	<time:year>2005</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Jammu and Kashmir </hasLocation>
+	<dbp:magnitude>8</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>1309</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">6622</numberOfInjued>
+	<dbpedia-owl:casualties>156622</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>1000000</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/18">
+	<time:year>2005</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">uttarakhand</hasLocation>
+	<dbp:magnitude>5.3</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>1</dbpedia-owl:numberOfDeaths>
+	<dbpedia-owl:casualties>4</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>1</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/19">
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Sikkim</hasLocation>
+	<dbp:magnitude>5.3</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>2</dbpedia-owl:numberOfDeaths>
+	<dbpedia-owl:casualties>2</dbpedia-owl:casualties>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/20">
+	<time:year>2011</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Sikkim</hasLocation>
+	<dbp:magnitude>7</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>112</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">200</numberOfInjued>
+	<dbpedia-owl:casualties>575200</dbpedia-owl:casualties>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/21">
+	<time:year>2013</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Jammu and Kashmir </hasLocation>
+	<dbp:magnitude>6</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>3</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">70</numberOfInjued>
+	<dbpedia-owl:casualties>59350</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>120000</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/22">
+	<time:year>2015</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#"> Sikkim </hasLocation>
+	<dbp:magnitude>8</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>78</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">560</numberOfInjued>
+	<dbpedia-owl:casualties>560</dbpedia-owl:casualties>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/23">
+	<time:year>2015</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Bihar </hasLocation>
+	<dbp:magnitude>7</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>20</dbpedia-owl:numberOfDeaths>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/24">
+	<time:year>2016</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Manipur</hasLocation>
+	<dbp:magnitude>7</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>8</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">308</numberOfInjued>
+	<dbpedia-owl:casualties>10808</dbpedia-owl:casualties>
+	<dbpedia-owl:damage>75000</dbpedia-owl:damage>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikidata.org/Earthquake/25">
+	<time:year>2021</time:year>
+	<hasLocation xmlns="http://data.semanticweb.org/ns/swc/ontology#">Assam </hasLocation>
+	<dbp:magnitude>6</dbp:magnitude>
+	<dbpedia-owl:numberOfDeaths>2</dbpedia-owl:numberOfDeaths>
+	<numberOfInjued xmlns="https://www.wikidata.org/Earthquake/">10</numberOfInjued>
+	<dbpedia-owl:casualties>3010</dbpedia-owl:casualties>
+</rdf:Description>
+
+</rdf:RDF>
